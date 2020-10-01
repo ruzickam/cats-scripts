@@ -1,4 +1,4 @@
-#!/home/ruzickam/Development/cats-build/src/projects/cats/2.0/bin/cats
+#!/path/to/cats
 
 // load topology
 var mp = new Topology("dna_joined.parm7");
